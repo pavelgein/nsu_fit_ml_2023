@@ -15,7 +15,7 @@ Deep learning представлен по желанию, для более пр
 
 Курс Юрия Кашницкого mlcourse.ai https://github.com/Yorko/mlcourse.ai/tree/main
 
-Handbook ML от Яндекса -- смело глядеть сюда, хорошо поясняют математику за алгоритмами -- https://academy.yandex.ru/handbook/ml
+Handbook ML от Яндекса -- смело глядеть сюда, хорошо поясняют математику, стояющую за алгоритмами -- https://academy.yandex.ru/handbook/ml
 
 100 упражнений на numpy -- https://github.com/rougier/numpy-100
 
