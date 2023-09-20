@@ -5,6 +5,12 @@ Materials for ML Course of NSU FIT
 
 Deep learning представлен по желанию, для более продвинутого изучения. Можно и нужно задавать вопросы, если вдруг что-то не понятно.
 
+## Статьи
+
+Введение в основные понятия ML + DL
+
+https://utopya88.github.io/ML.html
+
 ## Курсы
 
 Курс УрФУ https://github.com/samstikhin/mlmathmech/tree/master
